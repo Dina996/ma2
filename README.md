@@ -3,7 +3,7 @@
 ***
 
 ### Group members
-| Student name | Student ID |
+| Diana Bilobrov | 152706 |
 | --- | --- |
 | #NAME# | #ID# |
 | #NAME# | #ID# |
